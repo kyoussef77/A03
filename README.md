@@ -25,6 +25,7 @@ Create a GitHub account
 -------------------------------
 **GITHUB**: Platform used by users to share and test code as well as it is provides hosting software development using GIT
 
+
 Repository (Create/Track)
 ----------------------------
 **Repository**: Location of where file are in
@@ -59,5 +60,7 @@ Solve a Merge Conflict
 
 Links
 -------------
+https://rogerdudler.github.io/git-guide/
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
+http://guides.beanstalkapp.com/version-control/common-git-commands.html
