@@ -24,6 +24,8 @@ Create a GitHub account
 -------------------------------
 **GITHUB**: Platform used by users to share and test code as well as it is provides hosting software development using GIT
 
+1. Visit https://github.com/ and create an account
+
 Repository (Create/Track)
 ----------------------------
 **Repository**: Location of where file are in
