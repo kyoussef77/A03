@@ -27,6 +27,8 @@ Create a GitHub account
 Repository (Create/Track)
 ----------------------------
 **Repository**: Location of where file are in
+**Commit**: Command on git that selects branch
+
 1. Create repository on GitHub
 2. Configure your credentials: 
 	* $ git config --global user.email "email@address.com"
@@ -55,10 +57,6 @@ Cloning
 	
 2. List all repository information: $ git remote -v 
 3. List all branches in repository (local and remote): $ git branch -a 
-
-Commiting
-----------------------
-**Commit**: Command on git that selects branch
 
 
 Push to (local/Remote)
