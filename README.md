@@ -48,11 +48,14 @@ Repository (Create/Track)
 Cloning
 ---------------------
 **Clone**: Command on git that clone your branch on a local computer
+
 	* $ git clone <repository URL> <WHERE U WANT TO CLONE>
 	* e.g. $ git clone ../remote_repo.git .
-		* $ git clone https://github.com/stval98/A03
+	* $ git clone https://github.com/stval98/A03
+	
 2. List all repository information: $ git remote -v 
 3. List all branches in repository (local and remote): $ git branch -a 
+
 Commiting
 ----------------------
 **Commit**: Command on git that selects branch
@@ -63,6 +66,7 @@ Push to (local/Remote)
 **Push**: Command used on git that transfers commit commands from a local computer to a remote repo
 **Pull**: Command used on git that downloads file from a remote repo and installs and update on a local computer
 **Remote**: Command used on Git that creates a copy of a file on a local computer
+
 1. Show changes made to files: $ git diff
 2. Check staging area: $ git status
 3. Add files to staging area: $ git add -A
@@ -75,6 +79,7 @@ Merging Branches to Master and Deleting
 --------------------------
 **Branch**: Command on git that creates a branch
 **Merge**: Command on git that merges two branches into one separate branch
+
 **Creating a Local Branch:**
 1. Create branch: $ git branch BRANCH_NAME
 2. Switch to branch: $ git checkout BRANCH_NAME 
@@ -90,6 +95,7 @@ Solve a Merge Conflict
 ----------------------
 **Merge Conflict**: Command on git used when merge command has competing commits and needs users help to decide final merge
 **Fetch**: Command on git that updates files from remote repository to local computer
+
 1. Pull changes from master branch: $ git pull origin master
 2. Check staging area to see file affected: $ git status
 3. Inspect file to find conflict. Search for <<<<<<< HEAD conflict marker.
